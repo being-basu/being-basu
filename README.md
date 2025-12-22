@@ -25,8 +25,8 @@ I’m an aspiring Web Developer passionate about building projects using Python,
 
 ## 📂 Projects
 
-### Weather App (https://github.com/being-basu/Weather-App)  
-A command-line Python application that fetches live weather data for Indian cities using OpenWeatherMap API.
+### AI Resume Analyzer (https://github.com/being-basu/AI-Resume-Analyzer)
+AI-powered resume analyzer using Gemini API (Flask + Python)
 
 ---
 
