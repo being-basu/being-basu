@@ -1,23 +1,29 @@
-## Hi, I’m Basu 👋
+# Hi, I'm Basu Patra 👋
 
-Aspiring Web Developer focused on building clean, practical web applications using JavaScript and modern frontend fundamentals. Actively working toward Web Developer and Frontend Intern roles.
+I'm a Full Stack Developer focused on building practical web applications, backend services, REST APIs and AI powered solutions.
 
----
+I enjoy solving problems through code, working with databases, integrating third party APIs and turning ideas into functional applications.
 
 ### 🚀 About Me
-- 💻 Focused on frontend and web development
-- 🧠 Strong problem solving and logical thinking
-- 📈 Consistently building and shipping real world projects
-- 🔗 LinkedIn: https://www.linkedin.com/in/basupatra  
-- 🔗 GitHub: https://github.com/being-basu
 
----
+- 💻 Full Stack Development with JavaScript and Python
+- ⚙️ Building backend services using Node.js, Express.js and Flask
+- 🗄️ Working with SQL, SQLite and relational databases
+- 🔌 Exploring REST API development and third party API integrations
+- 🤖 Building AI powered applications using Gemini API
+- 📚 Continuously learning and improving my software engineering skills
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, SQL
-- **Frontend:** HTML5, CSS3, Bootstrap
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** DOM manipulation, event handling, state management, localStorage
+
+**Languages:** JavaScript, Python, SQL, HTML5, CSS3
+
+**Backend:** Node.js, Express.js, Flask, REST APIs
+
+**Frontend:** React.js, Bootstrap, Tailwind CSS
+
+**Databases:** SQLite, SQL
+
+**Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
